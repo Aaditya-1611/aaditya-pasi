@@ -1,0 +1,8 @@
+{
+  "name": "Interactive Bento Portfolio",
+  "description": "An ultra-premium, interactive bento-grid developer portfolio featuring an AI-powered avatar chatbot, custom theme accents, fully editable profile content, timeline widgets, and fluid animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
